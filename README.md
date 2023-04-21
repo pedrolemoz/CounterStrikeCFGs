@@ -4,16 +4,19 @@ This repository contains my own cfgs for CS:GO. Its meant to be used only by me,
 
 # TL;DR
 
-| Configuration         | Description |
-| --------------------- | :---------: |
-| Mouse DPI             |   800 DPI   |
-| Game sensitivity      |    1.46     |
-| RAW input             |     Yes     |
-| Windows pointer speed |      6      |
-| FOV                   |     60      |
-| Crosshair color       |    Green    |
-| Crosshair style       |   Hybrid    |
-| HUD Color             |     Red     |
+| Configuration              | Description |
+| -------------------------- | :---------: |
+| Mouse DPI                  |   800 DPI   |
+| Game sensitivity           |    1.46     |
+| RAW input                  |     Yes     |
+| Windows pointer speed      |      6      |
+| FOV                        |     60      |
+| Crosshair color            |    Green    |
+| Crosshair style            |   Hybrid    |
+| HUD Color                  |     Red     |
+| Menu music volume          |      0      |
+| MVP music volue            |      0      |
+| Ten seconds warning volume |     0.1     |
 
 # Current crosshair
 
@@ -26,15 +29,16 @@ This repository contains my own cfgs for CS:GO. Its meant to be used only by me,
 | --------------------- | :---------------------: |
 | Jumpthrow             |        Left Alt         |
 | Jump                  | Mouse wheel up and down |
-| Change weapon hand    |            Z            |
+| Change weapon hand    |     Mouse button 4      |
+| Use microphone        |     Mouse button 5      |
 | No Clip               |            C            |
 | Toggle Netgraph       |            P            |
 | Drop Molotov          |            I            |
 | Drop Smoke            |            J            |
 | Drop Flash            |            K            |
-| Place BOT             |            O            |
-| Inspect weapon        |            T            |
-| Extend crosshair size |            F            |
+| Drop C4               |            N            |
+| Inspect weapon        |            F            |
+| Extend crosshair size |            Z            |
 
 # Current setup
 
