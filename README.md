@@ -18,6 +18,10 @@ This repository contains my own cfgs for CS:GO. Its meant to be used only by me,
 | MVP music volue            |      0      |
 | Ten seconds warning volume |     0.1     |
 
+## Launch options
+
+`-refresh 165 -freq 165 -nojoy -novid -full -console +fps_max 0`
+
 # Current crosshair
 
 <p align="center">
