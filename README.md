@@ -7,7 +7,7 @@ This repository contains my own cfgs for CS:GO. Its meant to be used only by me,
 | Configuration              | Description |
 | -------------------------- | :---------: |
 | Mouse DPI                  |   800 DPI   |
-| Game sensitivity           |    1.46     |
+| Game sensitivity           |     0.9     |
 | RAW input                  |     Yes     |
 | Windows pointer speed      |      6      |
 | FOV                        |     68      |
