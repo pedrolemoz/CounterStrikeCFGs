@@ -14,20 +14,20 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 ## Advanced Video
 
-| Video Configuration         |  Description   |
-| --------------------------- | :------------: |
-| Boost Player Contrast       |      Yes       |
-| V-Sync                      |       No       |
-| MSAA                        |     CMAA2      |
-| Global Shadow Quality       |      High      |
-| Models and Textures Detail  |     Medium     |
-| Texture Filtering Mode      | Anisotropic 4x |
-| Shader Detail               |      Low       |
-| Particle Detail             |      Low       |
-| Ambient Occlusion           |    Disabled    |
-| High Dynamic Range          |  Performance   |
-| FidelityFX Super Resolution |    Disabled    |
-| NVIDIA Reflex Low Latency   |    Disabled    |
+| Video Configuration         |   Description   |
+| --------------------------- | :-------------: |
+| Boost Player Contrast       |       Yes       |
+| V-Sync                      |       No        |
+| MSAA                        |      CMAA2      |
+| Global Shadow Quality       |      High       |
+| Models and Textures Detail  |     Medium      |
+| Texture Filtering Mode      | Anisotropic 4x  |
+| Shader Detail               |       Low       |
+| Particle Detail             |       Low       |
+| Ambient Occlusion           |    Disabled     |
+| High Dynamic Range          |   Performance   |
+| FidelityFX Super Resolution |    Disabled     |
+| NVIDIA Reflex Low Latency   | Enabled + Boost |
 
 ## Configurations
 
