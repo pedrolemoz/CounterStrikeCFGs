@@ -1,26 +1,50 @@
-# Counter-Strike: Global Offensive Configurations
+# Counter-Strike 2 Configurations
 
-This repository contains my own cfgs for CS:GO. Its meant to be used only by me, but feel free to copy these settings.
+This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be used only by me, but feel free to copy these settings.
 
 # TL;DR
 
-| Configuration              | Description |
-| -------------------------- | :---------: |
-| Mouse DPI                  |   800 DPI   |
-| Game sensitivity           |     0.9     |
-| RAW input                  |     Yes     |
-| Windows pointer speed      |      6      |
-| FOV                        |     68      |
-| Crosshair color            |    Green    |
-| Crosshair style            |   Hybrid    |
-| HUD Color                  |     Red     |
-| Menu music volume          |      0      |
-| MVP music volue            |      0      |
-| Ten seconds warning volume |     0.1     |
+## Basic Video
 
-## Launch options
+| Configuration |    Description    |
+| ------------- | :---------------: |
+| Resolution    | 1680x1050 (16:10) |
+| Refresh Rate  |      360 Hz       |
+| Brightness    |       100%        |
 
-`-refresh 360 -freq 360 -nojoy -novid -full -console +fps_max 500`
+## Advanced Video
+
+| Video Configuration         |  Description   |
+| --------------------------- | :------------: |
+| Boost Player Contrast       |      Yes       |
+| V-Sync                      |       No       |
+| MSAA                        |     CMAA2      |
+| Global Shadow Quality       |      High      |
+| Models and Textures Detail  |     Medium     |
+| Texture Filtering Mode      | Anisotropic 4x |
+| Shader Detail               |      Low       |
+| Particle Detail             |      Low       |
+| Ambient Occlusion           |    Disabled    |
+| High Dynamic Range          |  Performance   |
+| FidelityFX Super Resolution |    Disabled    |
+| NVIDIA Reflex Low Latency   |    Disabled    |
+
+## Configurations
+
+| In-Game Configuration      |            Description             |
+| -------------------------- | :--------------------------------: |
+| Crosshair code             | CSGO-a58fX-jFipf-RokSW-COyL3-ayhCG |
+| Mouse DPI                  |              800 DPI               |
+| Game sensitivity           |                0.8                 |
+| RAW input (Missing on CS2) |                Yes                 |
+| Windows pointer speed      |                 6                  |
+| FOV                        |                 68                 |
+| Crosshair color            |               Green                |
+| Crosshair style            |               Hybrid               |
+| HUD Color                  |                Red                 |
+| Menu music volume          |                 0                  |
+| MVP music volue            |                 0                  |
+| Ten seconds warning volume |                0.1                 |
 
 # Current crosshair
 
@@ -29,20 +53,15 @@ This repository contains my own cfgs for CS:GO. Its meant to be used only by me,
 
 # Binds
 
-| Bind                  |           Key           |
-| --------------------- | :---------------------: |
-| Jumpthrow             |        Left Alt         |
-| Jump                  | Mouse wheel up and down |
-| Change weapon hand    |     Mouse button 4      |
-| Use microphone        |     Mouse button 5      |
-| No Clip               |            C            |
-| Toggle Netgraph       |            P            |
-| Drop Molotov          |            I            |
-| Drop Smoke            |            J            |
-| Drop Flash            |            K            |
-| Drop C4               |            N            |
-| Inspect weapon        |            F            |
-| Extend crosshair size |            Z            |
+| Bind                                                       |           Key           |
+| ---------------------------------------------------------- | :---------------------: |
+| Jumpthrow                                                  |        Left Alt         |
+| Jump                                                       | Mouse wheel up and down |
+| Change weapon hand (Missing on CS2)                        |     Mouse button 4      |
+| Use microphone                                             |     Mouse button 5      |
+| No Clip                                                    |            C            |
+| Toggle Netgraph (Missing on CS2, using cl_showfps instead) |            P            |
+| Drop C4                                                    |            N            |
 
 # Current setup
 
