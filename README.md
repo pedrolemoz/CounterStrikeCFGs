@@ -61,7 +61,7 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 | Use microphone                                             |     Mouse button 5      |
 | No Clip                                                    |            C            |
 | Toggle Netgraph (Missing on CS2, using cl_showfps instead) |            P            |
-| Drop C4                                                    |            N            |
+| Drop C4                                                    |            Q            |
 
 # Current setup
 
