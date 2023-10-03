@@ -6,11 +6,11 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 ## Basic Video
 
-| Configuration |    Description    |
-| ------------- | :---------------: |
-| Resolution    | 1680x1050 (16:10) |
-| Refresh Rate  |      360 Hz       |
-| Brightness    |       100%        |
+| Configuration |   Description   |
+| ------------- | :-------------: |
+| Resolution    | 1440x1080 (4:3) |
+| Refresh Rate  |     360 Hz      |
+| Brightness    |      100%       |
 
 ## Advanced Video
 
