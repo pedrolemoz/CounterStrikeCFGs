@@ -33,7 +33,7 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 | In-Game Configuration      |            Description             |
 | -------------------------- | :--------------------------------: |
-| Crosshair code             | CSGO-a58fX-jFipf-RokSW-COyL3-ayhCG |
+| Crosshair code             | CSGO-af3LN-mvMqR-eyJf3-dJ7K7-HDWzE |
 | Mouse DPI                  |              800 DPI               |
 | Game sensitivity           |                0.8                 |
 | RAW input (Missing on CS2) |                Yes                 |
