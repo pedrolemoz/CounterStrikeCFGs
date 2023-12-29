@@ -33,15 +33,15 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 | In-Game Configuration      |            Description             |
 | -------------------------- | :--------------------------------: |
-| Crosshair code             | CSGO-af3LN-mvMqR-eyJf3-dJ7K7-HDWzE |
+| Crosshair code             | CSGO-fJJj4-nZZ58-Z8wU3-vTrbb-m4urD |
 | Mouse DPI                  |              800 DPI               |
-| Game sensitivity           |                0.8                 |
+| Game sensitivity           |                 1                  |
 | RAW input (Missing on CS2) |                Yes                 |
 | Windows pointer speed      |                 6                  |
 | FOV                        |                 68                 |
 | Crosshair color            |               Green                |
 | Crosshair style            |               Hybrid               |
-| HUD Color                  |                Red                 |
+| HUD Color                  |               Purple               |
 | Menu music volume          |                 0                  |
 | MVP music volue            |                 0                  |
 | Ten seconds warning volume |                0.1                 |
@@ -65,11 +65,13 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 # Current setup
 
-| Component | Description                          |
-| --------- | ------------------------------------ |
-| CPU       | Intel Core i5-9600K @ 4.7 GHz        |
-| GPU       | NVIDIA RTX 3060 EVGA OC GAMING 12 GB |
-| Monitor   | Alienware AW2523HF 25" 360 Hz        |
-| RAM       | 16 GB (2x8) DDR4 3200MHz CL16        |
-| Mouse     | Logitech G403 Hero                   |
-| Keyboard  | HyperX Alloy FPS RGB US Layout       |
+|  Component | Description                          |
+| ---------- | ------------------------------------ |
+|     CPU    | Intel Core i5-9600K @ 4.7 GHz        |
+|     GPU    | NVIDIA RTX 3060 EVGA OC GAMING 12 GB |
+|   Monitor  | Alienware AW2523HF 25" 360 Hz        |
+|     RAM    | 16 GB (2x8) DDR4 3200MHz CL16        |
+|    Mouse   | Logitech G403 Hero                   |
+|  Keyboard  | HyperX Alloy FPS RGB US Layout       |
+| Microphone | HyperX Quadcast S                    |
+|   In-Ear   | KZ ZSN Pro                           |
