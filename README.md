@@ -33,7 +33,7 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 | In-Game Configuration      |            Description             |
 | -------------------------- | :--------------------------------: |
-| Crosshair code             | CSGO-fJJj4-nZZ58-Z8wU3-vTrbb-m4urD |
+| Crosshair code             | CSGO-FWrLW-H3Dn2-LHxv3-CeiSK-4O6FP |
 | Mouse DPI                  |              800 DPI               |
 | Game sensitivity           |                 1                  |
 | RAW input (Missing on CS2) |                Yes                 |
@@ -57,17 +57,14 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 | ---------------------------------------------------------- | :---------------------: |
 | Jumpthrow                                                  |        Left Alt         |
 | Jump                                                       | Mouse wheel up and down |
-| Change weapon hand (Missing on CS2)                        |     Mouse button 4      |
 | Use microphone                                             |     Mouse button 5      |
 | No Clip                                                    |            C            |
-| Toggle Netgraph (Missing on CS2, using cl_showfps instead) |            P            |
-| Drop C4                                                    |            Q            |
 
 # Current setup
 
 |  Component | Description                          |
 | ---------- | ------------------------------------ |
-|     CPU    | Intel Core i5-9600K @ 4.7 GHz        |
+|     CPU    | Intel Core i7-9700K @ 4.9 GHz        |
 |     GPU    | NVIDIA RTX 3060 EVGA OC GAMING 12 GB |
 |   Monitor  | Alienware AW2523HF 25" 360 Hz        |
 |     RAM    | 16 GB (2x8) DDR4 3200MHz CL16        |
