@@ -33,9 +33,9 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 | In-Game Configuration      |            Description             |
 | -------------------------- | :--------------------------------: |
-| Crosshair code             | CSGO-FWrLW-H3Dn2-LHxv3-CeiSK-4O6FP |
+| Crosshair code             | CSGO-a58fX-jFipf-RokSW-COyL3-ayhCG |
 | Mouse DPI                  |              800 DPI               |
-| Game sensitivity           |                 1                  |
+| Game sensitivity           |                1.25                |
 | RAW input (Missing on CS2) |                Yes                 |
 | Windows pointer speed      |                 6                  |
 | FOV                        |                 68                 |
@@ -53,22 +53,22 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 
 # Binds
 
-| Bind                                                       |           Key           |
-| ---------------------------------------------------------- | :---------------------: |
-| Jumpthrow                                                  |        Left Alt         |
-| Jump                                                       | Mouse wheel up and down |
-| Use microphone                                             |     Mouse button 5      |
-| No Clip                                                    |            C            |
+| Bind           |           Key           |
+| -------------- | :---------------------: |
+| Jumpthrow      |        Left Alt         |
+| Jump           | Mouse wheel up and down |
+| Use microphone |     Mouse button 5      |
+| No Clip        |            C            |
 
 # Current setup
 
-|  Component | Description                          |
+| Component  | Description                          |
 | ---------- | ------------------------------------ |
-|     CPU    | Intel Core i7-9700K @ 4.9 GHz        |
-|     GPU    | NVIDIA RTX 3060 EVGA OC GAMING 12 GB |
-|   Monitor  | Alienware AW2523HF 25" 360 Hz        |
-|     RAM    | 16 GB (2x8) DDR4 3200MHz CL16        |
-|    Mouse   | Logitech G403 Hero                   |
-|  Keyboard  | HyperX Alloy FPS RGB US Layout       |
+| CPU        | Intel Core i7-9700K @ 4.9 GHz        |
+| GPU        | NVIDIA RTX 3060 EVGA OC GAMING 12 GB |
+| Monitor    | Alienware AW2523HF 25" 360 Hz        |
+| RAM        | 16 GB (2x8) DDR4 3200MHz CL16        |
+| Mouse      | Fallen Pantera Pro Wireless          |
+| Keyboard   | HyperX Alloy FPS RGB US Layout       |
 | Microphone | HyperX Quadcast S                    |
-|   In-Ear   | KZ ZSN Pro                           |
+| In-Ear     | KZ ZSN Pro                           |
