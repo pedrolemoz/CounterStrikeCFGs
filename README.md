@@ -1,33 +1,34 @@
 # Counter-Strike 2 Configurations
 
-This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be used only by me, but feel free to copy these settings.
+This repository contains my own cfgs for CS2. Its meant to be used only by me, but feel free to copy these settings.
 
 # TL;DR
 
 ## Basic Video
 
-| Configuration |   Description   |
-| ------------- | :-------------: |
-| Resolution    | 1440x1080 (4:3) |
-| Refresh Rate  |     360 Hz      |
-| Brightness    |      100%       |
+| Configuration |  Description   |
+| ------------- | :------------: |
+| Resolution    | 1280x960 (4:3) |
+| Refresh Rate  |     360 Hz     |
+| Brightness    |      100%      |
 
 ## Advanced Video
 
-| Video Configuration         |   Description   |
-| --------------------------- | :-------------: |
-| Boost Player Contrast       |       Yes       |
-| V-Sync                      |       No        |
-| MSAA                        |      CMAA2      |
-| Global Shadow Quality       |      High       |
-| Models and Textures Detail  |     Medium      |
-| Texture Filtering Mode      | Anisotropic 4x  |
-| Shader Detail               |       Low       |
-| Particle Detail             |       Low       |
-| Ambient Occlusion           |    Disabled     |
-| High Dynamic Range          |   Performance   |
-| FidelityFX Super Resolution |    Disabled     |
-| NVIDIA Reflex Low Latency   | Enabled + Boost |
+| Video Configuration              |   Description   |
+| -------------------------------- | :-------------: |
+| Boost Player Contrast            |     ENABLED     |
+| V-Sync                           |    DISABLED     |
+| NVIDIA Reflex Low Latency        | Enabled + Boost |
+| Multisampling Anti-Aliasing Mode |     8X MSAA     |
+| Global Shadow Quality            |      HIGH       |
+| Dynamic Shadows                  |       ALL       |
+| Models / Texture Detail          |       LOW       |
+| Texture Filtering Mode           |    TRILINEAR    |
+| Shader Detail                    |       Low       |
+| Particle Detail                  |       Low       |
+| Ambient Occlusion                |    DISABLED     |
+| High Dynamic Range               |     QUALITY     |
+| FidelityFX Super Resolution      |    Disabled     |
 
 ## Configurations
 
@@ -35,7 +36,7 @@ This repository contains my own cfgs for CS2 (previously CS:GO). Its meant to be
 | -------------------------- | :--------------------------------: |
 | Crosshair code             | CSGO-a58fX-jFipf-RokSW-COyL3-ayhCG |
 | Mouse DPI                  |              800 DPI               |
-| Game sensitivity           |                1.25                |
+| Game sensitivity           |                 1                  |
 | RAW input (Missing on CS2) |                Yes                 |
 | Windows pointer speed      |                 6                  |
 | FOV                        |                 68                 |
