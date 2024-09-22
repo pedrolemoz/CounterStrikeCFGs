@@ -18,17 +18,17 @@ This repository contains my own cfgs for CS2. Its meant to be used only by me, b
 | -------------------------------- | :-------------: |
 | Boost Player Contrast            |     ENABLED     |
 | V-Sync                           |    DISABLED     |
-| NVIDIA Reflex Low Latency        | Enabled + Boost |
+| NVIDIA Reflex Low Latency        | ENABLED + BOOST |
 | Multisampling Anti-Aliasing Mode |     8X MSAA     |
 | Global Shadow Quality            |      HIGH       |
 | Dynamic Shadows                  |       ALL       |
 | Models / Texture Detail          |       LOW       |
 | Texture Filtering Mode           |    TRILINEAR    |
-| Shader Detail                    |       Low       |
-| Particle Detail                  |       Low       |
+| Shader Detail                    |       LOW       |
+| Particle Detail                  |       LOW       |
 | Ambient Occlusion                |    DISABLED     |
 | High Dynamic Range               |     QUALITY     |
-| FidelityFX Super Resolution      |    Disabled     |
+| FidelityFX Super Resolution      |    DISABLED     |
 
 ## Configurations
 
